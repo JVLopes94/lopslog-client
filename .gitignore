@@ -1,0 +1,23 @@
+# Node.js and npm
+/node_modules
+/npm-debug.log*
+.DS_Store
+
+# React Native specific
+/ios/Pods
+/ios/build
+/ios/*.xcworkspace
+/ios/*.xcuserstate
+/ios/*.xcscheme
+/android/build
+/android/.gradle
+/android/app/build
+/android/app/.cxx
+/android/app/*.iml
+
+# IDE specific
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
